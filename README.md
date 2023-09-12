@@ -1,5 +1,9 @@
 # CodeTracker - Profile Website for CS Students/Professionals
 
+##Colaboration
+Gayatri Rithe - gr2287 
+Yuyao Wu - yw4831
+
 ## What and Why?
 
 CodeTracker is a project aimed at creating a personal website tailored for Computer Science and Software Engineering students and professionals. The primary objectives of this website are to enable users to create profiles and connect to their Github and LeetCode accounts. This integration will facilitate the display of important information such as commit statistics, question completions, and repository language usage in their dashboard. Users can also showcase their personal coding projects on the website. The project addresses the need to centralize scattered information from various CS platforms into one unified website. It serves the dual purpose of aiding self-assessment and enhancing recruitment opportunities.
