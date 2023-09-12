@@ -1,6 +1,6 @@
 # CodeTracker - Profile Website for CS Students/Professionals
 
-## Colaboration
+## Collaboration
 Ana Pacheco - asp9060, Gayatri Rithe - gr2287, Yuyao Wu - yw4831
 
 ## What and Why?
