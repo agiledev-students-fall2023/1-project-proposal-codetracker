@@ -1,7 +1,7 @@
 # CodeTracker - Profile Website for CS Students/Professionals
 
 ## Colaboration
-Gayatri Rithe - gr2287 </n>
+Gayatri Rithe - gr2287 </br>
 Yuyao Wu - yw4831
 
 ## What and Why?
