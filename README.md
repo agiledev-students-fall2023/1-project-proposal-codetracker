@@ -1,6 +1,6 @@
 # CodeTracker - Profile Website for CS Students/Professionals
 
-##Colaboration
+## Colaboration
 Gayatri Rithe - gr2287 
 Yuyao Wu - yw4831
 
